@@ -102,6 +102,10 @@
                     BuildAction = "EmbeddedResource"
                 />
                 <File
+                    RelPath = "ConnTest.exe.manifest"
+                    BuildAction = "None"
+                />
+                <File
                     RelPath = "Graphics\ConnTest.ico"
                     BuildAction = "Content"
                 />
