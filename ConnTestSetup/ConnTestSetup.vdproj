@@ -15,6 +15,12 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_082D1B47590D43D6863F152B6C233C41"
+        "OwnerKey" = "8:_71C5ED377CD549D7A1B3D4265983C028"
+        "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_21E754CB6DEC438597D73D904EF7E043"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:C:\\DOCUMENTS AND SETTINGS\\GEOFF\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CONNTEST\\CONNTEST.EXE.MANIFEST"
@@ -24,12 +30,6 @@
         "MsmKey" = "8:_3DD8F52D4CE84337A5FD0AAD0E81880F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:C:\\DOCUMENTS AND SETTINGS\\GEOFF\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CONNTEST\\GRAPHICS\\CONNTEST.ICO"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5B18127ECFAD4B38B44DFCC805C98027"
-        "OwnerKey" = "8:_71C5ED377CD549D7A1B3D4265983C028"
-        "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
         }
         "Entry"
         {
@@ -352,13 +352,13 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:ConnTest"
-        "ProductCode" = "8:{4A525D92-6920-42B2-9217-469C0DD0167A}"
-        "PackageCode" = "8:{CBFEA5F8-9BE8-43C5-B4B0-E547D9AF90BD}"
+        "ProductCode" = "8:{60D097CD-15D3-4D47-A309-D7A93BDB26E4}"
+        "PackageCode" = "8:{7B9807D1-7E9C-4A2F-8EEC-541C711D07D1}"
         "UpgradeCode" = "8:{78196097-FF0B-4AF2-A9E0-1D5EC707087B}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.1.0"
         "Manufacturer" = "8:OpinionatedGeek"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:http://www.opinionatedgeek.com/"
@@ -379,7 +379,7 @@
         }
         "MergeModule"
         {
-            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_5B18127ECFAD4B38B44DFCC805C98027"
+            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_082D1B47590D43D6863F152B6C233C41"
             {
             "UseDynamicProperties" = "11:TRUE"
             "IsDependency" = "11:TRUE"
