@@ -192,7 +192,7 @@ namespace OpinionatedGeek.Applications.ConnTest
 																		  this.tbConnectionString});
 			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.Name = "ConnTest";
-			this.Text = "Opinionated Geek Database Connection Tester";
+			this.Text = "Opinionated Geek Database Connection Tester v1.0";
 			this.ResumeLayout(false);
 
 		}
