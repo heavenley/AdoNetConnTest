@@ -15,12 +15,6 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_082D1B47590D43D6863F152B6C233C41"
-        "OwnerKey" = "8:_71C5ED377CD549D7A1B3D4265983C028"
-        "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_21E754CB6DEC438597D73D904EF7E043"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:C:\\DOCUMENTS AND SETTINGS\\GEOFF\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CONNTEST\\CONNTEST.EXE.MANIFEST"
@@ -36,6 +30,12 @@
         "MsmKey" = "8:_71C5ED377CD549D7A1B3D4265983C028"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:conntestc:\\documents and settings\\geoff\\my documents\\visual studio projects\\conntest\\obj\\release\\conntest.exe"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EC3012A59DA64C0EBF2FBF8471DD3186"
+        "OwnerKey" = "8:_71C5ED377CD549D7A1B3D4265983C028"
+        "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
         }
     }
     "Configurations"
@@ -61,7 +61,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:Release\\ConnTestSetup.msi"
+        "OutputFilename" = "8:Release\\ConnTest.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -379,7 +379,7 @@
         }
         "MergeModule"
         {
-            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_082D1B47590D43D6863F152B6C233C41"
+            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_EC3012A59DA64C0EBF2FBF8471DD3186"
             {
             "UseDynamicProperties" = "11:TRUE"
             "IsDependency" = "11:TRUE"
