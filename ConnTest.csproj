@@ -7,7 +7,7 @@
     >
         <Build>
             <Settings
-                ApplicationIcon = ""
+                ApplicationIcon = "Graphics\ConnTest.ico"
                 AssemblyKeyContainerName = ""
                 AssemblyName = "ConnTest"
                 AssemblyOriginatorKeyFile = ""
@@ -16,7 +16,7 @@
                 DefaultTargetSchema = "IE50"
                 DelaySign = "false"
                 OutputType = "WinExe"
-                RootNamespace = "ConnTest"
+                RootNamespace = "OpinionatedGeek.Applications.ConnTest"
                 StartupObject = ""
             >
                 <Config
@@ -52,7 +52,7 @@
                     OutputPath = "bin\Release\"
                     RegisterForComInterop = "false"
                     RemoveIntegerChecks = "false"
-                    TreatWarningsAsErrors = "false"
+                    TreatWarningsAsErrors = "true"
                     WarningLevel = "4"
                 />
             </Settings>
