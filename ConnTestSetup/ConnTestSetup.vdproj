@@ -33,7 +33,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_EC3012A59DA64C0EBF2FBF8471DD3186"
+        "MsmKey" = "8:_8017989EE8DF437F8134033E3119442F"
         "OwnerKey" = "8:_71C5ED377CD549D7A1B3D4265983C028"
         "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
         }
@@ -197,7 +197,7 @@
         {
             "{D0C99CFE-1238-11D3-8E00-00C04F6837D0}:_E50F4997273B48D2ADCE28ED62780CF2"
             {
-            "Name" = "8:Shortcut to ConnTest"
+            "Name" = "8:ConnTest"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -211,7 +211,7 @@
             }
             "{D0C99CFE-1238-11D3-8E00-00C04F6837D0}:_ED06D0D6EE6B477788D430A3140EA540"
             {
-            "Name" = "8:Shortcut to ConnTest"
+            "Name" = "8:ConnTest"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -379,7 +379,7 @@
         }
         "MergeModule"
         {
-            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_EC3012A59DA64C0EBF2FBF8471DD3186"
+            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_8017989EE8DF437F8134033E3119442F"
             {
             "UseDynamicProperties" = "11:TRUE"
             "IsDependency" = "11:TRUE"
