@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnTest", "ConnTest.csproj", "{4C2B4A17-E030-4A8C-9F20-E2BAE57EBA0A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ConnTestSetup", "ConnTestSetup\ConnTestSetup.vdproj", "{1B18FD2C-CA16-4378-B235-3B81A74C2DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4C2B4A17-E030-4A8C-9F20-E2BAE57EBA0A}.Debug.ActiveCfg = Debug|.NET
+		{4C2B4A17-E030-4A8C-9F20-E2BAE57EBA0A}.Debug.Build.0 = Debug|.NET
+		{4C2B4A17-E030-4A8C-9F20-E2BAE57EBA0A}.Release.ActiveCfg = Release|.NET
+		{4C2B4A17-E030-4A8C-9F20-E2BAE57EBA0A}.Release.Build.0 = Release|.NET
+		{1B18FD2C-CA16-4378-B235-3B81A74C2DD6}.Debug.ActiveCfg = Debug
+		{1B18FD2C-CA16-4378-B235-3B81A74C2DD6}.Release.ActiveCfg = Release
+		{1B18FD2C-CA16-4378-B235-3B81A74C2DD6}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
