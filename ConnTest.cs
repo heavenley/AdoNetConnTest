@@ -68,9 +68,6 @@ namespace OpinionatedGeek.Applications.ConnTest
 		(
 		)
 		{
-			//
-			// Required for Windows Form Designer support
-			//
 			InitializeComponent();
 
 			return;
