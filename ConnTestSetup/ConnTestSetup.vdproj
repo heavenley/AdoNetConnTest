@@ -15,13 +15,19 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_21E754CB6DEC438597D73D904EF7E043"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:C:\\DOCUMENTS AND SETTINGS\\GEOFF\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CONNTEST\\CONNTEST.EXE.MANIFEST"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_3DD8F52D4CE84337A5FD0AAD0E81880F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:C:\\DOCUMENTS AND SETTINGS\\GEOFF\\MY DOCUMENTS\\VISUAL STUDIO PROJECTS\\CONNTEST\\GRAPHICS\\CONNTEST.ICO"
         }
         "Entry"
         {
-        "MsmKey" = "8:_48F62E56EB7B47E6AB599DB0F64AD069"
+        "MsmKey" = "8:_5B18127ECFAD4B38B44DFCC805C98027"
         "OwnerKey" = "8:_71C5ED377CD549D7A1B3D4265983C028"
         "MsmSig" = "8:mondo.E4183BB4_18A8_11D5_A549_0090278A1BB8"
         }
@@ -83,6 +89,26 @@
         }
         "File"
         {
+            "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_21E754CB6DEC438597D73D904EF7E043"
+            {
+            "SourcePath" = "8:..\\ConnTest.exe.manifest"
+            "TargetName" = "8:ConnTest.exe.manifest"
+            "Tag" = "8:"
+            "Folder" = "8:_BA0C910D4D49417CA05898DEDD8676D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{54DA9790-1474-11D3-8E00-00C04F6837D0}:_3DD8F52D4CE84337A5FD0AAD0E81880F"
             {
             "SourcePath" = "8:..\\Graphics\\ConnTest.ico"
@@ -327,22 +353,22 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:ConnTest"
         "ProductCode" = "8:{4A525D92-6920-42B2-9217-469C0DD0167A}"
-        "PackageCode" = "8:{E04BEFED-B3C3-443C-AB8D-BBE9B54DFF6A}"
+        "PackageCode" = "8:{CBFEA5F8-9BE8-43C5-B4B0-E547D9AF90BD}"
         "UpgradeCode" = "8:{78196097-FF0B-4AF2-A9E0-1D5EC707087B}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:OpinionatedGeek.com"
+        "Manufacturer" = "8:OpinionatedGeek"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:http://www.opinionatedgeek.com/"
         "Title" = "8:ConnTest"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:OpinionatedGeek.com"
+        "ARPCONTACT" = "8:OpinionatedGeek"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:A simple .NET database connection string tester"
         "ARPURLINFOABOUT" = "8:http://www.opinionatedgeek.com/"
-        "ARPPRODUCTICON" = "8:"
+        "ARPPRODUCTICON" = "8:_3DD8F52D4CE84337A5FD0AAD0E81880F"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -353,7 +379,7 @@
         }
         "MergeModule"
         {
-            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_48F62E56EB7B47E6AB599DB0F64AD069"
+            "{AC8774A4-3E09-11D3-8E14-00C04F6837D0}:_5B18127ECFAD4B38B44DFCC805C98027"
             {
             "UseDynamicProperties" = "11:TRUE"
             "IsDependency" = "11:TRUE"
