@@ -36,7 +36,7 @@ using System.Runtime.CompilerServices;
 // associated with an assembly.
 //
 [assembly: AssemblyTitle ("ConnTest")]
-[assembly: AssemblyDescription (".NET Database Connection Test Utility.")]
+[assembly: AssemblyDescription (".NET Database Connection String Test Utility.")]
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("OpinionatedGeek")]
 [assembly: AssemblyProduct ("ConnTest")]
